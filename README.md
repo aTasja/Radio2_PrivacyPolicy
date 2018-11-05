@@ -1,4 +1,4 @@
-## Privacy Policy
+# Privacy Policy
 
 1. The term “personal information” as used herein is defined as any information that identifies or may be used to identify, contact, or search for the person to whom such information relates. The personal information we collect will be subject to this privacy policy, as amended from time to time.
 
@@ -14,12 +14,12 @@
 
 7. We do not send email newsletters.
 
-# Required Permissions
+## Required Permissions
 
 1. Access to calls is used for to monitor the status of the phone and turn off the radio during a phone conversation.
 
 
-## Политика конфиденциальности
+# Политика конфиденциальности
 1. Термин “личная информация”, используемый в настоящем документе, определяется как любая информация, которая идентифицирует или может использоваться для идентификации, связи или поиска человека, к которому такая информация относится. Личная информация, которую мы собираем, будет являться предметом настоящей политики конфиденциальности, с вносимыми время от времени поправками.
 
 2. Мы не запрашиваем Ваш адрес электронной почты, телефон или какую нибудь информацию о Вас.
@@ -34,7 +34,7 @@
 
 7. Мы не отправляем на электронную почту рассылку новостей.
 
-# Требуемые разрешения
+## Требуемые разрешения
 1. Доступ к звонкам используется для слежения за состояниянием телефона и отключения радио во время телефонного разговора.
 
 Contacts / Контакты
