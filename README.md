@@ -39,6 +39,6 @@
 
 ## Contacts / Контакты
 
-e-mail / адрес элюпочты: a_tasja@mail.ru 
+e-mail / адрес эл.почты: a_tasja@mail.ru 
 
-subject / тема письма: Radio2 Support
+subject / тема письма: Radio2Support
