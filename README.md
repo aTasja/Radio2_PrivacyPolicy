@@ -39,6 +39,4 @@
 
 ## Contacts / Контакты
 
-e-mail / адрес эл.почты: a_tasja@mail.ru 
-
-subject / тема письма: Radio2Support
+e-mail / адрес эл.почты: shatova_app@mail.ru
